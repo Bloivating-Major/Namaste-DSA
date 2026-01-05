@@ -40,6 +40,19 @@ This repository mirrors that philosophy.
 
 ---
 
+<details>
+<summary style="display: inline; font-size: 18px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Warm Up</summary>
+
+[ Programming 101 ](./02%20Warm%20Up/01Programming101.md)
+
+[ Functions & If-Else ](./02%20Warm%20Up/02FunctionIfElse.md)
+
+[ Loops 01 ](./02%20Warm%20Up/03Loops01.md)
+
+</details>
+
+---
+
 ## 🛠️ **How to Use This Repository**
 
 1. 📺 Watch the Namaste DSA lecture
