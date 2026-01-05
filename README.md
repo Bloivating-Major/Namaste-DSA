@@ -1,4 +1,3 @@
-```markdown
 # 🚀 **Namaste DSA Journey** 
 
 > *A structured, no-confusion roadmap through Namaste DSA by Akshay Saini*
@@ -33,9 +32,9 @@ This repository mirrors that philosophy.
 <details>
 <summary style="display: inline; font-size: 18px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Introduction</summary>
 
-[ Introduction](./)
+[ Introduction](./01%20Introduction/01Introduction.md)
 
-[ Which language](./)
+[ Which language](./01%20Introduction/02WhichLanguage.md)
 
 </details>
 
